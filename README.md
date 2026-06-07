@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Uncle-Katt+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+things+for+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Uncle-Katt+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+things+for+the+web)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/Uncle-Katt">
-    <img src="https://komarev.com/ghpvc/?username=Uncle-Katt&style=flat-square&color=6366f1&label=Profile+Views" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Uncle-Katt&style=flat-square&color=ff3333&label=Profile+Views" alt="profile views" />
   </a>
 </p>
 
@@ -50,16 +50,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uncle-Katt&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uncle-Katt&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uncle-Katt&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uncle-Katt&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uncle-Katt&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uncle-Katt&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Uncle-Katt&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Uncle-Katt&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3333&height=80&section=footer" />
 </div>
