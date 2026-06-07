@@ -17,8 +17,8 @@
 - 🔭 Currently working on **full-stack web projects**
 - 🌱 Always learning — lately diving deeper into **[your current focus, e.g. TypeScript / DevOps / AI]**
 - 💬 Ask me about **React, Node.js, databases, or anything web**
-- 📫 Reach me at **your@email.com**
-- ⚡ Fun fact: *[something interesting about you]*
+- 📫 Reach me at **namco2k4@gmail.com**
+- ⚡ Fun fact: *bruh...*
 
 ---
 
@@ -34,6 +34,8 @@
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -43,7 +45,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
